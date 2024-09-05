@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  I’m currently working on **Upwork**
+  I’m currently working on **MERN Stack**
  
 <br/>
  
