@@ -8,7 +8,6 @@
 
 <br/>
 
-<h1 align="center">I Am Currently Working At @techxudo</h1>
 
 <div align="center">
  
