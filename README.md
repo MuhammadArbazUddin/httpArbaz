@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=%23ff5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Arbaz+Uddin;" />
 </h3>
 
-<h2 align="left">A Passionate Web Developer</h2>
+<h2 align="left">A Web Developer</h2>
 
 <p align="left">
   I'm a passionate frontend developer with a strong focus on crafting dynamic, responsive web applications. With over a year of experience, I transform ideas into seamless user experiences using high-quality, maintainable code.
